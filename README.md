@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realcodingteen" alt="realcodingteen" /></a> </p>
 
-- 🔭 I’m currently working on **YamChat**
+- 🔭 I’m currently working on **TamConn**
 
-- 🌱 I’m currently learning **socket programming**
+- 🌱 I’m currently learning **how you were born**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **banning roblox slenders**
 
-- 🤝 I’m looking for help with **nothing**
+- 🤝 I’m looking for help with **getting Mythical water banned**
 
-- 💬 Ask me about **Python stuff**
+- 💬 Ask me about **anything**
 
-- 📫 How to reach me **dacoolcodingteen@outlook.com**
+- 📫 How to reach me **real_notmoonblox@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
